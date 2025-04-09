@@ -12,7 +12,7 @@ function ErrorBooked() {
     <div className="flex items-center gap-3 lg:gap-5 justify-center h-screen flex-col text-center mx-auto w-[90vw]">
 
         {/* Heading */}
-        <h1 className="font-jakarta text-5xl lg:text-[98px] text-black font-bold">😒 There is no meeting currently booked!</h1>
+        <h1 className="font-jakarta text-5xl lg:text-[98px] text-black font-bold">There is no meeting currently booked!</h1>
 
         {/* Subheading */}
         <p className="text-lg lg:text-xl">
